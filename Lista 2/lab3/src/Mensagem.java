@@ -1,12 +1,13 @@
 /**
  * Laboratorio 3  
- * Autor: Lucio Agostinho Rocha
- * Ultima atualizacao: 04/04/2023
+ * Autor: Darlan e Sandro
+ * Ultima atualizacao: 28/04/2024
  */
 import java.io.Serializable;
 
 public class Mensagem implements Serializable {
-    
+	
+	private static final long serialVersionUID = 1L;
 	String mensagem;
 	 private static String args;
 	

@@ -1,7 +1,7 @@
 /**
  * Laboratorio 3  
- * Autor: Lucio Agostinho Rocha
- * Ultima atualizacao: 04/04/2023
+ * Autor: Darlan e Sandro
+ * Ultima atualizacao: 28/04/2024
  */
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
@@ -9,12 +9,8 @@ import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.net.ServerSocket;
-import java.net.Socket;
 
 import java.util.ArrayList;
 import java.util.List;

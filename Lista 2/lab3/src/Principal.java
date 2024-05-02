@@ -1,9 +1,8 @@
 /**
  * Laboratorio 3  
- * Autor: Lucio Agostinho Rocha
- * Ultima atualizacao: 04/04/2023
+ * Autor: Darlan e Sandro
+ * Ultima atualizacao: 28/04/2024
  */
-
 import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
