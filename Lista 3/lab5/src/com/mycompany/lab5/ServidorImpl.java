@@ -3,12 +3,9 @@ package com.mycompany.lab5;
 
 
 /*
- * Laboratorio 3  
- * Autor: Darlan e Sandro
- * Ultima atualizacao: 28/04/2024
  * Laboratorio 5  
- * Autores: Bruno Uhlmann Marcato e Thomas Oliveira Rocha Sampaio Silva
- * Ultima atualizacao: 19/11/2023
+ * Autores: Darlan Oliveira e Sandro Pinheiro
+ * Ultima atualizacao: 10/16/2024
  */
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
